@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2012  Krawler Information Systems Pvt Ltd
+ * Copyright (C) 2014 Deskera
  * All rights reserved.
  * 
  * This program is free software; you can redistribute it and/or
